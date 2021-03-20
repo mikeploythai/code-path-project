@@ -39,11 +39,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Original Project:
-![](Old Preview.gif)
+#### Original Project:
+
+![](Old \Preview.gif)
 
 
-Customized Project:
+#### Customized Project
+
 ![](Preview.gif)
 
 
