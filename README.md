@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **Burapha "Mike" Ploythai**
+Submitted by: **Mike Ploythai**
 
 Time spent: **5** hours spent in total
 
@@ -81,7 +81,7 @@ Here's a walkthrough of implemented user stories:
 
 ## License
 
-    Copyright Burapha "Mike" Ploythai 2021
+    Copyright Mike Ploythai 2021
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
