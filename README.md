@@ -44,13 +44,12 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-"Simple Counter | JavaScript Beginner Project Tutorial" by learn-webdev - https://www.youtube.com/watch?v=-BWKWHE5rI4
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+ * Simple Counter | JavaScript Beginner Project Tutorial" by learn-webdev - https://www.youtube.com/watch?v=-BWKWHE5rI4
+ * "CSS Button On Hover Slide Effect" by RazorXio - https://codepen.io/RazorXio/pen/gMaoOW
+ * "acmCSUF Mock Website" by Me - https://github.com/mikeploythai/acmCSUF
 
-"CSS Button On Hover Slide Effect" by RazorXio - https://codepen.io/RazorXio/pen/gMaoOW
 
-"acmCSUF Mock Website" by Me - https://github.com/mikeploythai/acmCSUF
- 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 The largest challenge I had was when I was customizing the game to my liking.  I spent a long time figuring out why the entire body wasn't centering to the middle of the page even though I was using things like flex and inline-block for my display parameter, and using text-align, align-items, and justify-content.  I spent a good 40 minutes to an hour trying out different things to get it to center, but then I remembered I had a problem similar to this when I was creating the mock up website for acmCSUF, the largest tech organization at my university that I'm a part of.  I had this issue when I was trying to create the hamburger menu UI for the website's mobile view.  I immediately went to my repo, and found the answer to all of my problems: flex-direction.  I knew that in the beginning of this issue, I was taking the right path using display: flex for the body, but never remember any of the other cool commands and parameters I have access to with flex, such as flex-direction.  So finally, I set my flex-direction to column, and then set my justify-content to center, which resulted on all of the assets in the body centering to the browser's viewport.
 
