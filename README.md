@@ -39,8 +39,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-![](your-link-here)
+Original Project:
+![](Old Preview.gif)
+
+
+Customized Project:
+![](Preview.gif)
 
 
 ## Reflection Questions
