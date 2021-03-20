@@ -1,0 +1,112 @@
+/* CSS files add styling rules to your content */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+  outline: none;
+  border: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: Roboto, serif;
+  background-color: #FAFAFA;
+  text-align: center;
+  font-size: 24px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  min-height:100vh;
+  color: #212121;
+}
+
+h1 {
+  font-family: Poppins, serif;
+  font-size: 64px;
+  color: #212121;
+}
+
+p {
+  padding: 16px 16px;
+}
+
+button {
+  margin-top: 32px;
+  padding: 16px 64px;
+  font-size: 20px;
+  color: #FAFAFA;
+  background-color: #212121;
+  
+  cursor: pointer;
+  transition: all .25s ease-in-out;
+}
+
+#startBtn {
+  box-shadow: inset 0 0 0 0 #616161;
+}
+
+#startBtn:hover {
+  box-shadow: inset 170px 0 0 0 #616161;
+}
+
+#stopBtn {
+  background-color: #616161;
+  box-shadow: inset 0 0 0 0 #212121;
+}
+
+#stopBtn:hover {
+  box-shadow: inset 170px 0 0 0 #212121;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  border-radius: 24px;
+  margin-right: 12px;
+}
+
+#gameButtonArea > button:hover {
+
+  box-shadow: 0 10px 40px 0 rgba(33,33,33,0.15);
+}
+
+.hidden {
+  display: none;
+}
+
+/* button 1 */
+#button1 {
+  background: #a5d6a7;
+}
+
+#button1:active, #button1.lit {
+  background: #75a478;
+}
+
+/* button 2 */
+#button2 {
+  background: #90caf9;
+}
+
+#button2:active, #button2.lit  {
+  background: #5d99c6;
+}
+
+/* button 3 */
+#button3 {
+  background: #ef9a9a;
+}
+
+#button3:active, #button3.lit  {
+  background: #ba6b6c;
+}
+
+/* button 4 */
+#button4 {
+  background: #80cbc4;
+}
+
+#button4:active, #button4.lit  {
+  background: #4f9a94;
+}
