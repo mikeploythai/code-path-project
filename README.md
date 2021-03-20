@@ -45,6 +45,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+
     "Simple Counter | JavaScript Beginner Project Tutorial" by learn-webdev - https://www.youtube.com/watch?v=-BWKWHE5rI4
     "CSS Button On Hover Slide Effect" by RazorXio - https://codepen.io/RazorXio/pen/gMaoOW
     "acmCSUF Mock Website" by Me - https://github.com/mikeploythai/acmCSUF
