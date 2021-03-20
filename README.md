@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 #### Original Project:
 
-![](Old \Preview.gif)
+![](Old Preview.gif)
 
 
 #### Customized Project
